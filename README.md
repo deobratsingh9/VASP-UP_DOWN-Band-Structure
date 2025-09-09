@@ -69,22 +69,22 @@ Spin-Resolved Band Structure Plotting with Sumo
 
 Once VASP calculations are done, you can use Sumo to plot spin-resolved band structures.
 
-Spin-Down Bands (↓)
+Spin-Down Bands (↓):
 sumo-bandplot --spin -1 --zero-line --ymin -4 --ymax 4
 
-Spin-Up Bands (↑)
+Spin-Up Bands (↑):
 sumo-bandplot --spin 1 --zero-line --ymin -4 --ymax 4
 
-Combined Spin-Up & Spin-Down in One Plot
+Combined Spin-Up & Spin-Down in One Plot:
 sumo-bandplot --spin both --zero-line --ymin -4 --ymax 4
 
-Save Output as PDF (instead of PNG)
+Save Output as PDF (instead of PNG):
 sumo-bandplot --spin both --zero-line --ymin -4 --ymax 4 --format pdf
 
-Custom Colors for Spin Channels
+Custom Colors for Spin Channels:
 sumo-bandplot --spin both --zero-line --ymin -4 --ymax 4 --colors red blue
 
-Adjust Line Thickness
+Adjust Line Thickness:
 sumo-bandplot --spin both --zero-line --ymin -4 --ymax 4 --linewidth 2
 
 Tutorial
