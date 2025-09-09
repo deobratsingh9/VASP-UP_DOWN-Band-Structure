@@ -1,0 +1,17 @@
+/home/x_deosi/.local/bin/sumo-bandplot --spin -1 --zero-line --ymin -4 --ymax 4
+Label positions:
+	0.0000: $\Gamma$
+	0.7157: Y
+	0.9977: S
+	1.7134: X
+	1.9954: $\Gamma$
+findfont: Font family ['sans-serif'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'sans-serif' not found because none of the following families were found: Whitney Pro, Whitney Book Extended, Catamaran, Helvetica, Liberation Sans, Andale Sans, Arial
+findfont: Font family ['cursive'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'cursive' not found because none of the following families were found: Apple Chancery, Textile, Zapf Chancery, Sand, Script MT, Felipa, Comic Neue, Comic Sans MS, cursive
+findfont: Font family ['sans'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'sans' not found because none of the following families were found: Whitney Pro, Whitney Book Extended, Catamaran, Helvetica, Liberation Sans, Andale Sans, Arial
+findfont: Font family ['sans'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'sans' not found because none of the following families were found: Whitney Pro, Whitney Book Extended, Catamaran, Helvetica, Liberation Sans, Andale Sans, Arial
+findfont: Font family ['sans'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'sans' not found because none of the following families were found: Whitney Pro, Whitney Book Extended, Catamaran, Helvetica, Liberation Sans, Andale Sans, Arial
